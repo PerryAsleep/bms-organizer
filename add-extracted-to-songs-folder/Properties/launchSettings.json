@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "add-extracted-to-songs-folder": {
+      "commandName": "Project"
+    }
+  }
+}
